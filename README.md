@@ -45,18 +45,8 @@ Check out my portfolio => https://rayffh.github.io/
 
 <div align='center'>
 <h2>📊 GitHub Stats:</h2>
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RayFFH&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;">
+        </td>
 
- <table style="width: 100%;">
-    <tr>
-        <td valign="top" align="center">
-            [![GitHub Streak](https://streak-stats.demolab.com?user=RayFFH)](https://git.io/streak-stats)
-        </td>
-    </tr>
-    <tr>
-        <td valign="bottom" align="center">
-            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RayFFH&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;">
-        </td>
-    </tr>
-  </table> 
 </div> 
 
