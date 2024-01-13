@@ -4,7 +4,7 @@
 
 *[Founders and Coders](https://www.foundersandcoders.com/learn/) Cohort
 
-<h5>Check out my Dynamic Kanji Learning WebApp<</h5> = > https://kanjilearner.azurewebsites.net/
+<b>Check out my Dynamic Kanji Learning WebApp</b> => https://kanjilearner.azurewebsites.net/
 
 Check out my portfolio => https://rayffh.github.io/
 
