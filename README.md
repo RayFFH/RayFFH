@@ -1,14 +1,13 @@
-![Hey I’m Phoenix (1)](https://github.com/RayFFH/RayFFH/assets/57190209/2b666a96-0a82-451d-ba1f-96d2e67a0c02)
+![212284136-03988914-d899-44b4-b1d9-4eeccf656e44](https://github.com/RayFFH/RayFFH/assets/57190209/8dc24410-41fa-4288-8b36-285c507f3e05)
+
 
 <a href="https://www.linkedin.com/in/phoenixsmart"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5800F7&random=false&width=435&lines=Here's+my+linkedin!" alt="Typing SVG" /></a>
 
 *[Founders and Coders](https://www.foundersandcoders.com/learn/) Cohort
-
-<b>Check out my Dynamic Kanji Learning WebApp</b> => https://kanjilearner.azurewebsites.net/
-
-Check out my portfolio => https://rayffh.github.io/
-
-
+<br></br>
+Portfolio: https://rayffh.github.io/Portfolio/#/about
+<br></br>
+Dynamic Kanji Learning WebApp :https://kanjilearner.azurewebsites.net/
 # Languages and Tools:
 <table><tr>
   <td valign="top" width="33%">
