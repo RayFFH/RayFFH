@@ -19,7 +19,7 @@
 # Languages and Tools:
 <!--Languages and Tools Section-->       
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,md,postgres,mongo,git,vscode,aws,flask,c,cs,cpp,dotnet,git,jquery,matlab,mysql,azure&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,md,postgres,mongo,git,vscode,aws,flask,c,cs,cpp,dotnet,git,jquery,matlab,mysql,azure&perline=10"  />
 </p>
 <br />
 
