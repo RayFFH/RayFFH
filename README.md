@@ -13,7 +13,7 @@
 
 <p align="left">Check out some of my work:</p>
 
-* Portfolio: https://rayffh.github.io/Portfolio/#/about
+* Portfolio: https://rayffh.github.io/PortfolioV2/
 * Dynamic Kanji Learning WebApp :https://kanjilearner.azurewebsites.net/
 
 # Languages and Tools:
