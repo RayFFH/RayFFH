@@ -14,7 +14,6 @@
 <p align="left">Check out some of my work:</p>
 
 * Portfolio: https://rayffh.github.io/Portfolio_Phoenix/
-* Dynamic Kanji Learning WebApp :https://kanjilearner.azurewebsites.net/
 
 # Languages and Tools:
 <!--Languages and Tools Section-->       
