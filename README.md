@@ -7,7 +7,7 @@
 <p align="left">I am a Software Engineer who likes to create user friendly apps</p>
 
 - ✨ Constantly Learning
-- 🌱 Just create
+- 🌱 Creating Apps
 - 💁‍♂️ [Founders and Coders](https://www.foundersandcoders.com/learn/) Cohort
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/phoenixsmart/) or phoenix222smart@gmail.com
 
