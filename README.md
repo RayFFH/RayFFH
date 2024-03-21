@@ -18,7 +18,7 @@
 # Languages and Tools:
 <!--Languages and Tools Section-->       
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,postgres,mongo,aws,flask,c,cs,cpp,dotnet,git,jquery,java,matlab,mysql&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,postgres,mongo,aws,flask,c,cs,cpp,dotnet,git,jquery,java,mysql&perline=10"  />
 </p>
 <br />
 
