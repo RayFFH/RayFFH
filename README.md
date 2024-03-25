@@ -9,7 +9,7 @@
 - ✨ Constantly Learning
 - 🌱 Creating Apps
 - 💁‍♂️ [Founders and Coders](https://www.foundersandcoders.com/learn/) Cohort
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/phoenixsmart/) or phoenix222smart@gmail.com
+- 📫 How to reach me: phoenix222smart@gmail.com
 
 <p align="left">Check out some of my work:</p>
 
